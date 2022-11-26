@@ -2,7 +2,7 @@
 
 ### Overview
 
-The above projects is a Movie Recommender System that which is a content based Recommender System.
+The above project is a Movie Recommender System that which is a type of content based Recommender System.
 It is deployed in heroku environment
 
 URL - https://mrs-priyankit.herokuapp.com/
