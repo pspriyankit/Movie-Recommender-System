@@ -7,4 +7,4 @@ It is deployed in heroku environment
 
 URL - https://mrs-priyankit.herokuapp.com/
 
-The requirements file contains all the necessary prerequiste libraries used in app.py file.
+The `requirements` file contains all the necessary prerequiste libraries used in app.py file.
