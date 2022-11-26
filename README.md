@@ -5,7 +5,7 @@
 The above project is a Movie Recommender System which is a type of content based Recommender System.
 It is deployed in heroku environment
 
-URL - https://mrs-priyankit.herokuapp.com/
+Movie recommender system Application URL - https://mrs-priyankit.herokuapp.com/
 
 The `dataset.zip` file contains the two datasets `tmdb_5000_credits` and `tmdb_5000_movies` that are used in this project to build the model
 
